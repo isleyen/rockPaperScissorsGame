@@ -10,25 +10,25 @@ int main() {
 
 	string player;
 	string opponent;
-	int playerScore = 0; // Oyuncu puaný
-	int opponentScore = 0; // Rakip puaný
+	int playerScore = 0; // Oyuncu puani
+	int opponentScore = 0; // Rakip puani
 
-	string rps[] = { "rock", "paper", "scissors" };  // Bu üç opsiyonu içinde barýndýran bir dizi tanýmladýk.
+	string rps[] = { "rock", "paper", "scissors" };  // Bu uc opsiyonu icinde barindiran bir dizi tanimladik.
 
-	srand((unsigned int)time(NULL));  // Rastgele sayý üreticisini baþlat. srand: seed random = rastgele tohum gibi bir anlama gelir.
-	// 'srand' kullanma sebebimiz bize her saniye baþýnda farklý(random) sayýlar verecek olmasýdýr.
+	srand((unsigned int)time(NULL));  // Rastgele sayý üreticisini baslat. srand: seed random = rastgele tohum gibi bir anlama gelir.
+	// 'srand' kullanma sebebimiz bize her saniye baþýnda farklý(random) sayýlar verecek olmasidir.
 
 	while (true) {
 		cout << "Enter rock, paper, scissors: ";
-		getline(cin, player); // Kullanýcýdan bir giriþ alýnýr
+		getline(cin, player); // Kullanýcýdan bir giris alinir.
 
-		if (player != "rock" && player != "paper" && player != "scissors") { // Girilen ifadenin r-p-s olup olmadýðý kontrol edilir
-			// gecerli bir giriþ yapýlmamýþsa break ile döngü donlandýrýlýr
+		if (player != "rock" && player != "paper" && player != "scissors") { // Girilen ifadenin r-p-s olup olmadigi kontrol edilir.
+			// gecerli bir giris yapýlmamis ise break ile dongu sonlandirilir.
 			break;
 
 		}
 
-		opponent = rps[rand() % 3]; // Bilgisayarda seçilen sayýnýn 3 e göre modunu alýp 0-1-2 deðerleri...
+		opponent = rps[rand() % 3]; // Bilgisayarda secilen sayýnýn 3 e gore modunu alýp 0-1-2 deðerleri...
 		// elde edilir ve bu da dizide 0=rock, 1=paper, 2=scissors' a denk gelir.
 		cout << "Opponent Choose: " << opponent << endl;
 		
