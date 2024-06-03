@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ahmet\\source\\repos\\rockPaperScissorsGame\\",
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\Documents\\GitHub\\rockPaperScissorsGame\\rockPaperScissorsGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B45A643-49E1-4B20-B251-F4A700077261}|rockPaperScissorsGame.vcxproj|C:\\Users\\ahmet\\source\\repos\\rockPaperScissorsGame\\rockPaperScissorsGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3B45A643-49E1-4B20-B251-F4A700077261}|rockPaperScissorsGame.vcxproj|C:\\Users\\ahmet\\Documents\\GitHub\\rockPaperScissorsGame\\rockPaperScissorsGame\\rockPaperScissorsGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3B45A643-49E1-4B20-B251-F4A700077261}|rockPaperScissorsGame.vcxproj|solutionrelative:rockPaperScissorsGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "rockPaperScissorsGame.cpp",
-              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\rockPaperScissorsGame\\rockPaperScissorsGame.cpp",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Documents\\GitHub\\rockPaperScissorsGame\\rockPaperScissorsGame\\rockPaperScissorsGame.cpp",
               "RelativeDocumentMoniker": "rockPaperScissorsGame.cpp",
-              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\rockPaperScissorsGame\\rockPaperScissorsGame.cpp",
-              "RelativeToolTip": "rockPaperScissorsGame.cpp",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAADsAAAABAAAA",
+              "ToolTip": "C:\\Users\\ahmet\\Documents\\GitHub\\rockPaperScissorsGame\\rockPaperScissorsGame\\rockPaperScissorsGame.cpp*",
+              "RelativeToolTip": "rockPaperScissorsGame.cpp*",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAB4AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-20T09:17:29.068Z",
               "EditorCaption": ""
